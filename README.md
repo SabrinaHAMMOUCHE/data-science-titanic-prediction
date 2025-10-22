@@ -58,12 +58,12 @@ Les variables les plus influentes : `Sex`, `Pclass`, `Age` et `Fare`.
 ---
 
 ## 👤 À propos de moi
-Je suis **[Ton Nom]**, data scientist passionné par la donnée et son potentiel à créer de la valeur.  
+Je suis **[Sabrina HAMMOUCHE]**, data scientist passionné par la donnée et son potentiel à créer de la valeur.  
 Mon objectif est de **transformer les données en décisions stratégiques** grâce à l’analyse, la modélisation et la visualisation.  
 
-📫 [ton.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/tonprofil)  
-💻 [Portfolio](https://tonpseudo.github.io/)
+📫 [sabrina.hammouche12@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/sabrina-hammouche-937b371bb)  
+💻 [Portfolio](https://sabrinahammouche.github.io/portfolio/)
 
 ---
 
